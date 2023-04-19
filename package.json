@@ -1,5 +1,5 @@
 {
-  "name": "shared-types-aksjon",
+  "name": "bcc-shared-types-aksjon",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bcc-code/bcc-shared-aksjon-types.git"
