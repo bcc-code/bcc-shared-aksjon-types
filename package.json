@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "This is a library of shared types for BCC Aksjon App",
   "main": "index.ts",
+  "private": "false",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bcc-code/bcc-shared-aksjon-types.git"
