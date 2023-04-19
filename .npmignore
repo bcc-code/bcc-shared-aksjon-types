@@ -1,0 +1,16 @@
+# development files
+package-lock.json
+package.lock
+node_modules/
+.npmrc
+
+# build files
+dist/
+build/
+
+# test files
+test/
+
+# documentation files
+docs/
+README.md

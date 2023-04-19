@@ -1,10 +1,14 @@
 {
-  "name": "@bcc-code/shared-aksjon-types",
+  "name": "shared-types-aksjon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcc-code/bcc-shared-aksjon-types.git"
+  },
   "version": "0.0.3",
+  "type": "module",
+  "license": "Apache-2.0",
   "description": "This is a library of shared types for BCC Aksjon App",
   "main": "index.ts",
-  "repository": "https://github.com/bcc-code/bcc-shared-aksjon-types.git",
-  "license": "Apache-2.0",
   "access": "public",
   "bugs": {
     "url": "https://github.com/bcc-code/bcc-shared-aksjon-types/issues"
@@ -12,5 +16,12 @@
   "homepage": "https://github.com/bcc-code/bcc-shared-aksjon-types#readme",
   "publishConfig": {
     "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "typescript": "^4.9.3"
   }
 }
