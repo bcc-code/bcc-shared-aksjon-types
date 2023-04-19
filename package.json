@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/bcc-code/bcc-shared-aksjon-types#readme",
   "dependencies": {
-    "directus": "9.22.4"
+    "directus": "9.25.1"
   }
 }
