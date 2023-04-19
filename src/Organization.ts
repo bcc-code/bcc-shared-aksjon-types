@@ -1,7 +1,7 @@
 import {Item} from '@directus/shared/types';
 import {UUID} from './types';
 
-export interface Organisation extends Item {
+export interface Organization extends Item {
   id: number;
   bcc_org_id: number;
   name: string;
