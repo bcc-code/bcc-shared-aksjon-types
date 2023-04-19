@@ -10,7 +10,7 @@
     "url": "https://github.com/bcc-code/bcc-shared-aksjon-types/issues"
   },
   "homepage": "https://github.com/bcc-code/bcc-shared-aksjon-types#readme",
-  "dependencies": {
-    "directus": "9.22.4"
+  "publishConfig": {
+    "access": "public"
   }
 }

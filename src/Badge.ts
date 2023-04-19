@@ -1,6 +1,4 @@
-import {Item} from '@directus/shared/types'
-
-export interface Badge extends Item {
+export interface Badge {
   id: number
   name: string
   image: string
