@@ -1,15 +1,11 @@
 {
   "name": "@bcc-code/shared-aksjon-types",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "This is a library of shared types for BCC Aksjon App",
   "main": "index.ts",
-  "private": "false",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bcc-code/bcc-shared-aksjon-types.git"
-  },
-  "author": "lukaspoloki",
+  "repository": "https://github.com/bcc-code/bcc-shared-aksjon-types.git",
   "license": "Apache-2.0",
+  "access": "public",
   "bugs": {
     "url": "https://github.com/bcc-code/bcc-shared-aksjon-types/issues"
   },
