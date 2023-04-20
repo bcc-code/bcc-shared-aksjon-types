@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git+https://github.com/bcc-code/bcc-shared-aksjon-types.git"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "license": "Apache-2.0",
   "description": "This is a library of shared types for BCC Aksjon App",
